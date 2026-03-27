@@ -75,7 +75,7 @@ Click on any engineering branch to explore:
 
 ## 🚀 Demo
 
-Visit the live application: [BRUTALGUIDE](https://github.com/brutal-45/BRUTALGUIDE)
+Visit the live application: [BRUTALGUIDE](https://brutalguide.vercel.app/)
 
 ### Screenshots
 
@@ -288,7 +288,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 <p align="center">
-  <strong>Made with ❤️ for Engineering Aspirants</strong>
+  <strong>Made with BRUTALTOOLS ❤️ for Engineering Aspirants</strong>
 </p>
 
 <p align="center">
