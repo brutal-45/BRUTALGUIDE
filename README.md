@@ -132,7 +132,7 @@ bun run build
 bun run start
 ```
 
-The application will be available at `https://brutalguide.vercel.app/`
+The application will be available at (https://brutalguide.vercel.app/)
 
 ## 💻 Technologies
 
