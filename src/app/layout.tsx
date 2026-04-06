@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "BRUTALGUIDE - Complete Guide to Engineering Streams in Maharashtra",
     description: "Comprehensive guide to engineering branches in Maharashtra. Degree & Diploma programs covered.",
-    url: "https://brutalguide.com",
+    url: "https://brutalguide.vercel.app",
     siteName: "BRUTALGUIDE",
     type: "website",
   },
