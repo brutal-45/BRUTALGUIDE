@@ -9,7 +9,7 @@ import { ScrollArea } from '@/components/ui/scroll-area';
 
 type User = {
   id: string;
-  username: string;
+  username: string; 
 }
 
 type Message = {
