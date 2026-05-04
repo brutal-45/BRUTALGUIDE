@@ -288,7 +288,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 <p align="center">
-  <strong>Made with BRUTALTOOLS  for Engineering Aspirants</strong>
+  <strong>Made with BRUTALTOOLS  for Engineering Aspirants</strong> 
 </p>
 
 <p align="center">
