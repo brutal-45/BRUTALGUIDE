@@ -16,7 +16,7 @@ type Message = {
   id: string;
   username: string;
   content: string;
-  timestamp: Date | string;
+  timestamp: Date | string; 
   type: 'user' | 'system';
 }
 
