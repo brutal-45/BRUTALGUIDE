@@ -1,6 +1,6 @@
 const { 
   Document, Packer, Paragraph, TextRun, Table, TableRow, TableCell, 
-  Header, Footer, AlignmentType, LevelFormat, TableOfContents, HeadingLevel, 
+  Header, Footer, AlignmentType, LevelFormat, TableOfContents, HeadingLevel,  
   BorderStyle, WidthType, ShadingType, VerticalAlign, PageNumber, PageBreak 
 } = require('docx');
 const fs = require('fs');
