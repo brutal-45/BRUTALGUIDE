@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="public/logo.png" alt="BRUTALGUIDE Logo" width="120" height="120"> 
+  <img src="public/logo.png" alt="BRUTALGUIDE Logo" width="120" height="120">
 </p>
 
 <h1 align="center">BRUTALGUIDE</h1>
