@@ -2,7 +2,7 @@
   <img src="public/logo.png" alt="BRUTALGUIDE Logo" width="120" height="120">
 </p>
 
-<h1 align="center">BRUTALGUIDE</h1> 
+<h1 align="center">BRUTALGUIDE</h1>
 
 <p align="center">
   <strong>Complete Guide to Engineering Streams in Maharashtra</strong><br>
