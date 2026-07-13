@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
   <img src="public/logo.png" alt="BRUTALGUIDE Logo" width="120" height="120">
 </p>
 
