@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 
 """
 BRUTALGUIDE - Complete Guide to Engineering Streams in Maharashtra 
 High-Quality PDF Generator
